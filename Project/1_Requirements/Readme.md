@@ -7,9 +7,7 @@
 #Requirements:
 
 #High Level Requirements:
-
 HLR01-Alerting the driver about the vehicle coming from the other side.
-
 HLR02-Message should be sent to the hospital,police or family after the accident occured.
 
 HLR03-Location of the accident should be shared with family,hospital and police.
