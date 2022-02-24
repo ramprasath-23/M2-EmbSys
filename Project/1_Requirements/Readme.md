@@ -19,3 +19,21 @@ HLR03-Location of the accident should be shared with family,hospital and police.
 LLR01-Automatic reduction in the speed of the vehicle.
 
 LLR02-Alarm sound can be enabled.
+
+#SWOT Analysis:
+
+#Strengthness:
+
+Fast recovery of the person who is involved in the accident.
+
+#Weakness:
+
+Additional power supply is required.
+
+#Opportunities:
+
+Can be used in all the automobiles.
+
+Threats:
+
+Low battery can be occured if all the circuits are connected to the bike battery.
