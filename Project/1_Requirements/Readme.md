@@ -46,7 +46,7 @@ What-Emergency alert and notification system using GPS and GSM.
 
 Where-Automobiles.
 
-Who-Drivers.
+Who-Person who drives the vehicle.
 
 When-During accidents.
 
