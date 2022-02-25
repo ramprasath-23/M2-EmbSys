@@ -42,7 +42,7 @@ Can be used in all the automobiles.
 Low battery can be occured if all the circuits are connected to the bike battery.
 
 ## 5W and 1H
-| --- | --- |
+| --- | --- | --- |
 | What | Emergency alert and notification system using GPS and GSM. |
 | Where | Automobiles. |
 | Who | Person who drives the vehicle. |
