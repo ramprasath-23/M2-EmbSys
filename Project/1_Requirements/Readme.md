@@ -71,3 +71,9 @@ How-Alerting the driver and sending messages to hospital,police and family.
 7.Ultra sonic sensor--->To measure the distance of a targeted objects.
 
 8.LED--->Used for indication.
+
+# Future Scope
+
+1.The system can be connected to the drivers medical record and that can be sent along with the accident notification,which helps in better and faster treatment.
+
+2.A renewable energy source can be used in place of connecting the prototype to a power source.
