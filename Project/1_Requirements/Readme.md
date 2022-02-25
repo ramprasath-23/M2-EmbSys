@@ -53,3 +53,14 @@ When-During accidents.
 Why-To avoid accidents and fast recovery of people after the accident.
 
 How-Alerting the driver and sending messages to hospital,police and family.
+
+# Components:
+
+*Arduino Uno ATmega328p
+*LCD
+*Accelerometer
+*GSM
+*GPS
+*Vibration sensor
+*Ultra sonic sensor
+*LED
