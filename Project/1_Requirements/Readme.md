@@ -56,18 +56,18 @@ How-Alerting the driver and sending messages to hospital,police and family.
 
 # Components:
 
-*Arduino Uno ATmega328p
+1.Arduino Uno ATmega328p
 
-*LCD
+2.LCD
 
-*Accelerometer
+3.Accelerometer
 
-*GSM
+4.GSM
 
-*GPS
+5.GPS
 
-*Vibration sensor
+6.Vibration sensor
 
-*Ultra sonic sensor
+7.Ultra sonic sensor
 
-*LED
+8.LED
