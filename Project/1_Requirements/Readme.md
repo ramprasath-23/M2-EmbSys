@@ -42,18 +42,13 @@ Can be used in all the automobiles.
 Low battery can be occured if all the circuits are connected to the bike battery.
 
 ## 5W and 1H
-
-What-Emergency alert and notification system using GPS and GSM.
-
-Where-Automobiles.
-
-Who-Person who drives the vehicle.
-
-When-During accidents.
-
-Why-To avoid accidents and fast recovery of people after the accident.
-
-How-Alerting the driver and sending messages to hospital,police and family.
+| --- | --- |
+| What | Emergency alert and notification system using GPS and GSM. |
+| Where | Automobiles. |
+| Who | Person who drives the vehicle. |
+| When | During accidents. |
+| Why | To avoid accidents and fast recovery of people after the accident. |
+| How | Alerting the driver and sending messages to hospital,police and family. |
 
 ## Components:
 | Sno | Components | Uses |
