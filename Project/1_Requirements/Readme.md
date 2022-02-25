@@ -72,7 +72,7 @@ How-Alerting the driver and sending messages to hospital,police and family.
 
 8.LED--->Used for indication.
 
-# Future Scope
+## Future Scope
 
 1.The system can be connected to the drivers medical record and that can be sent along with the accident notification,which helps in better and faster treatment.
 
