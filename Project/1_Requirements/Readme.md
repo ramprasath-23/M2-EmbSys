@@ -57,6 +57,7 @@ How-Alerting the driver and sending messages to hospital,police and family.
 
 ## Components:
 | Sno | Components | Uses |
+| --- | --- | --- |
 | 1 | Arduino Uno ATmega328p | Open source microcontroller |
 | 2 | LCD | To display. |
 | 3 | Accelerometer | It measures the angle tilted with respect to the earth. |
