@@ -58,16 +58,16 @@ How-Alerting the driver and sending messages to hospital,police and family.
 
 1.Arduino Uno ATmega328p-Open source microcontroller.
 
-2.LCD-To display.
+2.LCD--->To display.
 
-3.Accelerometer-It measures the angle tilted with respect to the earth.
+3.Accelerometer--->It measures the angle tilted with respect to the earth.
 
-4.GSM-Used to control and monitor the transformer by sending a message.
+4.GSM--->Used to control and monitor the transformer by sending a message.
 
-5.GPS-Used for tracking and navigation.
+5.GPS--->Used for tracking and navigation.
 
-6.Vibration sensor-Used to detect the vibrations from various means.
+6.Vibration sensor--->Used to detect the vibrations from various means.
 
-7.Ultra sonic sensor-To measure the distance of a targeted objects.
+7.Ultra sonic sensor--->To measure the distance of a targeted objects.
 
-8.LED-Used for indication.
+8.LED--->Used for indication.
