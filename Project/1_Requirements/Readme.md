@@ -11,23 +11,16 @@
 ### High Level Requirements:
 
 | ID | Description | Status(Future/Implemented) |
-
 | --- | --- | --- |
-
 | HLR01 | Alerting the driver about the vehicle coming from the other side. | Implemented |
-
 | HLR02 | Message should be sent to the hospital,police or family after the accident occured. | Implemented |
-
 | HLR03 | Location of the accident should be shared with family,hospital and police. | Implemented |
 
 ### Low Level Requirements:
 
 | ID | Description | Status(Future/Implemented) |
-
 | --- | --- | --- |
-
 | LLR01 | Automatic reduction in the speed of the vehicle. | Future |
-
 | LLR02 | Alarm sound can be enabled. | Future |
 
 ## SWOT Analysis:
