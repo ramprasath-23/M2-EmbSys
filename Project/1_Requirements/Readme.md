@@ -59,7 +59,7 @@ How-Alerting the driver and sending messages to hospital,police and family.
 | Sno | Components | Uses |
 | --- | --- | --- |
 | 1 | Arduino Uno ATmega328p | Open source microcontroller |
-| 2 | LCD | To display. |
+| 2 | LCD | Used to display. |
 | 3 | Accelerometer | It measures the angle tilted with respect to the earth. |
 | 4 | GSM | Used to control and monitor the transformer by sending a message. |
 | 5 | GPS | Used for tracking and navigation. |
