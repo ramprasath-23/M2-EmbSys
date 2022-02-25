@@ -42,7 +42,8 @@ Can be used in all the automobiles.
 Low battery can be occured if all the circuits are connected to the bike battery.
 
 ## 5W and 1H
-| --- | --- | --- |
+| W's & H | Description |
+| --- | --- |
 | What | Emergency alert and notification system using GPS and GSM. |
 | Where | Automobiles. |
 | Who | Person who drives the vehicle. |
@@ -51,6 +52,7 @@ Low battery can be occured if all the circuits are connected to the bike battery
 | How | Alerting the driver and sending messages to hospital,police and family. |
 
 ## Components:
+
 | Sno | Components | Uses |
 | --- | --- | --- |
 | 1 | Arduino Uno ATmega328p | Open source microcontroller |
